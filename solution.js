@@ -37,4 +37,4 @@ function myModifier(string){
   return result.join(" "); 
 }
 
-myModifier("Western - Gorvernors - University + Tim Andrus = match made in JavaScript!");
+myModifier("automotive");
